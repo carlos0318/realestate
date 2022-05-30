@@ -1,6 +1,6 @@
 # Realestate
 
-![imagen](https://user-images.githubusercontent.com/44144850/171067244-e57f106f-001c-47a0-bbad-62dd7c50df58.png)
+![imagen](https://user-images.githubusercontent.com/44144850/171067464-b7418137-d49c-4c54-9473-3a0273985c34.png)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
